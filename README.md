@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img alt="Imagem da Aplicação" src="canva.jpg" />
+  <img alt="Imagem da Aplicação" src="checkboxes.jpg" />
 </p>
 
 ---
